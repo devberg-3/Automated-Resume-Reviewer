@@ -1,11 +1,3 @@
 # Automated-Resume-Reviewer
-Source
-Extracting user's information from the Resume, I used PyResparser
-Extracting Resume PDF into Text, I used PDFMiner.
-Features
-User's & Admin Section
-Resume Score
-Career Recommendations
-Resume writing Tips suggestions
-Courses Recommendations
-Skills Recommendations
+
+This project is aimed at providing a comprehensive solution for parsing and analyzing resumes in PDF format. It utilizes PyResparser for extracting user information and PDFMiner for converting PDF files into text format. The tool offers features for both users and administrators, including resume scoring, career recommendations, resume writing tips suggestions, course recommendations, and skills recommendations.
